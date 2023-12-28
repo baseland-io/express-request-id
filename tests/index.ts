@@ -3,7 +3,6 @@ import expressRequestId from '../src';
 import { Express, Request, Response } from 'express-serve-static-core';
 import { validate } from 'uuid';
 import request from 'supertest';
-import http from 'http';
 import { assert } from 'chai';
 
 describe('default options', async () => {
