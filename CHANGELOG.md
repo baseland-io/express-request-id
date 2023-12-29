@@ -1,6 +1,6 @@
 # Change Log
 
-## v4.0.0 - 2023.XX.XX
+## v4.0.0 - 2023.12.28
 
 - Updated dependencies
 - Changed testing suite to `chia/mocha`
